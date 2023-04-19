@@ -5,7 +5,7 @@ import java.sql.SQLOutput;
 public class AulaOperadores {
     public static void main(String args[])
     {
-        // + - *
+        // + - * /
         int numero01 = 10;
         int numero02 = 20;
         double resultado = numero02 / (double)numero01;
