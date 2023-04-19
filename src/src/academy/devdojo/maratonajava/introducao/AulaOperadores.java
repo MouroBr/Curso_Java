@@ -12,7 +12,7 @@ public class AulaOperadores {
         System.out.println(resultado);
 
         // %
-        int resto = 21 % 7;
+        int resto = 23 % 7;
         System.out.println(resto);
 
         // < > <= >= == !=
