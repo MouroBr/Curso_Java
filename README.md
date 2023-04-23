@@ -50,9 +50,29 @@ Operadores relacionais (< >, <= >=, == !=)
 
 
 
-**Aula 17- 18**
+**Aula 17 - 18**
 
 Operadores Lógicos 
 
 * && semelhante ao **and** do python utilizado para conjunção entre  condições 
 * || representa o operador **or** utilizado para confirmar se pelo menos 1 das condições são validas 
+
+**Aula 19**
+
+Operadores de Atribuição ( =, +=, -=, *=, /=, %=)
+
+utilizados para abreviar códigos
+
+
+
+**Aula 20 - 22**
+
+Estruturas condicionais (if, else ) 
+
+o else sempre deve estar ligado a um if.
+
+* todas as variáveis que estão dentro de métodos, tem um escopo local e todas elas devem ser inicializadas antes de serem executadas;
+
+
+
+* Operador Ternário : criado para simplificar condições if, else, usado quando necessário para fazer associação diretamente a uma variável;
