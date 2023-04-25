@@ -75,4 +75,27 @@ o else sempre deve estar ligado a um if.
 
 
 
-* Operador Ternário : criado para simplificar condições if, else, usado quando necessário para fazer associação diretamente a uma variável;
+* Operador Ternário : criado para simplificar condições if, else, usado quando necessário para fazer associação diretamente a uma variável;"Pode-se usar um operador ternário dentro de outro operador ternário".(não recomendado).
+
+ 
+
+**Aula 23**
+
+Tabela da verdade
+
+* o operador && apenas true se todas as condições forem verdadeiras;
+* Operador || só é false se todas as condições forem falsas;
+
+
+
+**Aula 24**
+
+Exercício condicionais 02
+
+Qual o valor do imposto que devo pagar baseado na faixa salarial. 
+
+
+
+**Aula 25**
+
+*  Switch Stateman : a estrutura Switch é uma construção de controle de fluxo que permite testar o valor de uma expressão e executar um bloco de código correspondente a um dos casos possíveis. (utilizado apenas paras as variáveis: char, int, byte, short, enum e String)
