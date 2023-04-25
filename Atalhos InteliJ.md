@@ -6,3 +6,5 @@ Atalhos InteliJ
 * sout + TAb -> System.out.println
 
 * Alt + Insert = new java class
+
+* Ctrl + Alt + L = formata o código
