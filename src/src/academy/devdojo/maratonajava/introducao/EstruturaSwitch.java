@@ -4,6 +4,9 @@ public class EstruturaSwitch {
     public static void main(String[] args) {
         byte dia = 5;
         switch (dia) {
+            default:
+                System.out.println("Opção inválida");
+                break;
             case 1:
                 System.out.println("Domingo");
                 break;
@@ -25,9 +28,7 @@ public class EstruturaSwitch {
             case 7:
                 System.out.println("Sabado");
                 break;
-            default:
-                System.out.println("Opção inválida");
-                break;
+
         }
     }
 }
