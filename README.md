@@ -115,14 +115,44 @@ Estruturas de repetição ( while, do while e fo):
 * **for**: composto por 3 instruções:
 
   1. *Inicialização*: instrução que é executada uma vez no inicio do loop. Geralmente, é usada para definir um contador ou variável de controle que será usada para controlar o loop.
+
   2. *condição*: é a condição que é verificada a cada iteração do loop. Se a condição for verdadeira, as instruções dentro do loop serão executadas. Se a condição for falsa, o loop terminará e o controle será transferido para a instrução após o loop.
+
   3. *atualização*: é a instrução que é executada no final de cada iteração do loop. Geralmente, é usada para incrementar ou decrementar o contador ou variável de controle.
 
-  Dentro do corpo do "for", você pode colocar qualquer instrução ou bloco de código que desejar. Isso pode incluir instruções condicionais, chamadas de métodos e outras estruturas de controle de fluxo, como "if" ou "switch".
+     Dentro do corpo do "for", você pode colocar qualquer instrução ou bloco de código que desejar. Isso pode incluir instruções condicionais, chamadas de métodos e outras estruturas de controle de fluxo, como "if" ou "switch".
 
-  
+​				
 
-  ​		
+​			**exercício:**
+
+​				Fazer um código que imprima todos os números pares de 0 até 1.000.000.
+
+
+
+
+
+* **break**: usado para sair de um loop(*laço*) ou de um switch(*seleção múltipla*).
+
+    Dentro de um loop(por exemplo, um "*for*" ou um "*while*" ), o "break" é usado para interromper a execução do loop antes que a condição de termino seja alcançada. Isso é util quando uma determinada condição é encontrada e não há necessidade de continuar a execução do loop.
+
+    O break deve sempre estar dentro de um "*if*", "*for*",, "*while*"; 									
+
+​		**exercício:**
+
+​			Dado o valor de um carro, descubra em quantas vezes ele pode ser parcelado.
+
+​			imprima todos os valores
+
+
+
+
+
+
+
+
+
+​		
 
 
 
