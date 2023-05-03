@@ -144,15 +144,12 @@ Estruturas de repetição ( while, do while e fo):
 
 ​			imprima todos os valores
 
+**Aula 32 - 35**
 
+* **Arrays:** Arrays são estruturas de dados que permitem armazenar uma coleção de elementos do mesmo tipo em uma única variável. Eles são frequentemente usados para armazenar listas de itens, como números, strings ou objetos.
 
+  Os elementos em um array são acessados por meio de um índice, que começa em zero para o primeiro elemento e aumenta em um para cada elemento subsequente. Isso permite que você acesse um elemento específico em um array, bem como percorra todos os elementos em um loop.
 
+  - **foreach:** é uma estrutura de controle de fluxo em muitas linguagens de programação que permite iterar sobre todos os elementos de um conjunto de dados, como um array ou uma lista, de forma simples e eficiente.
 
-
-
-
-
-​		
-
-
-
+  
