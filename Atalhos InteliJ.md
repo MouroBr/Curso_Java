@@ -8,3 +8,5 @@ Atalhos InteliJ
 * Alt + Insert = new java class
 
 * Ctrl + Alt + L = formata o código
+
+* Shift + F6 = Refactor rename

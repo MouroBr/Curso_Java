@@ -144,6 +144,8 @@ Estruturas de repetição ( while, do while e fo):
 
 ​			imprima todos os valores
 
+
+
 **Aula 32 - 35**
 
 * **Arrays:** Arrays são estruturas de dados que permitem armazenar uma coleção de elementos do mesmo tipo em uma única variável. Eles são frequentemente usados para armazenar listas de itens, como números, strings ou objetos.
@@ -152,4 +154,12 @@ Estruturas de repetição ( while, do while e fo):
 
   - **foreach:** é uma estrutura de controle de fluxo em muitas linguagens de programação que permite iterar sobre todos os elementos de um conjunto de dados, como um array ou uma lista, de forma simples e eficiente.
 
-  
+
+
+**Aula 36 - 38**
+
+* **Arrays Multidimensionais:** Arrays multidimensionais são estruturas de dados em que cada elemento é um array, permitindo que dados sejam organizados em uma matriz ou em um cubo, por exemplo. Em outras palavras, arrays multidimensionais são arrays de arrays.
+
+  Um array unidimensional, ou simplesmente um array, contém uma sequência de elementos do mesmo tipo, acessados por meio de um único índice. Por exemplo, um array de inteiros em Java é definido como `int[] numeros = {1, 2, 3, 4, 5};`.
+
+  Um array multidimensional, por outro lado, tem dois ou mais índices, permitindo que os elementos sejam organizados em uma estrutura de várias dimensões. O exemplo mais comum de array multidimensional é a matriz, que tem duas dimensões (linhas e colunas).
