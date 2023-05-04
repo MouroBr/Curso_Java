@@ -1,6 +1,7 @@
 package academy.devdojo.maratonajava.introducao;
 
 public class AulaArraysMultidimencionais02 {
+
     public static void main(String[] args) {
         int[] array = {1, 2, 3};
 
@@ -15,18 +16,17 @@ public class AulaArraysMultidimencionais02 {
         for (int[] arrayBase : arrayInt2) {
             System.out.println("\n-----");
             for (int num : arrayBase) {
-                System.out.println(num + " ");
+                System.out.println(num+" ");
 
             }
 
         }
 
-        for (int[] arrayBase: arrayInt) {
-            System.out.println("\n-----");
-            for (int num : arrayBase) {
-                System.out.println(num + " ");
+      //for (int[] arrayBase: arrayInt) {
+       //    for (int num : arrayBase) {
+        //        System.out.println(num + " ");
             }
 
         }
-    }
-}
+
+
